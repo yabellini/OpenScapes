@@ -183,5 +183,5 @@ A community gives you judgment, a place, a role, connections, trust.
 - [rOpenSci Champions Program](https://ropensci.org/champions/)
 - [LatinR](https://latin-r.com/)
 - [rOpenSci anniversary series with examples of contributions and a path in a community beyond coding](https://ropensci.org/tags/anniversary/) 
-- [Teaching Targets with Penguins](https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/)
-- [Why ggseg Atlases Became Function Calls](https://drmowinckels.io/blog/2026/atlases-as-functions/)
+- Joel and Athanasia. [Teaching Targets with Penguins](https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/)
+- Athanasia Mo Mowinckel. [Why ggseg Atlases Became Function Calls](https://drmowinckels.io/blog/2026/atlases-as-functions/)
